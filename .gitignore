@@ -120,3 +120,4 @@ contracts/template/OpenEnterprise/contracts/Contract ABI.RAW_TEXT_FORMAT
 *.inParam
 contracts/aragon-id/autoscript.js
 contracts/aragonOS(verified)/project/autoscript.js
+*.lock
