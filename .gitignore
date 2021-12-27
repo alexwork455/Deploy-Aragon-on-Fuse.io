@@ -102,22 +102,22 @@ dist
 
 # TernJS port file
 .tern-port
-contracts/template/company/artifacts/
-contracts/template/dandelion/project/artifacts/
-contracts/template/Fundraising/artifacts/
-contracts/template/dandelion/artifacts/
-contracts/template/Fundraising/build/
-contracts/template/Membership/artifacts/
-contracts/template/OpenEnterprise/artifacts/
-contracts/template/Reputation/artifacts/
+aragonDeoply/template/company/artifacts/
+aragonDeoply/template/dandelion/project/artifacts/
+aragonDeoply/template/Fundraising/artifacts/
+aragonDeoply/template/dandelion/artifacts/
+aragonDeoply/template/Fundraising/build/
+aragonDeoply/template/Membership/artifacts/
+aragonDeoply/template/OpenEnterprise/artifacts/
+aragonDeoply/template/Reputation/artifacts/
 *.bat
 *.json
 *.contractAddress
-contracts/template/OpenEnterprise/contracts/deployed_contract_address
-contracts/template/OpenEnterprise/contracts/Contract ABI
-contracts/template/OpenEnterprise/contracts/Contract ABI.RAW_TEXT_FORMAT
+aragonDeoply/template/OpenEnterprise/contracts/deployed_contract_address
+aragonDeoply/template/OpenEnterprise/contracts/Contract ABI
+aragonDeoply/template/OpenEnterprise/contracts/Contract ABI.RAW_TEXT_FORMAT
 *.rar
 *.inParam
-contracts/aragon-id/autoscript.js
-contracts/aragonOS(verified)/project/autoscript.js
+aragonDeoply/aragon-id/autoscript.js
+aragonDeoply/aragonOS(verified)/project/autoscript.js
 *.lock
